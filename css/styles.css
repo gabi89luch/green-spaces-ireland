@@ -274,7 +274,7 @@ li { margin-bottom: 0.4rem; }
     content: '';
     position: absolute;
     inset: 0;
-    background-image: url('images/hero-park.webp');
+    background-image: url('../images/hero-park.webp');
     background-size: cover;
     background-position: center;
     opacity: 0.35;
