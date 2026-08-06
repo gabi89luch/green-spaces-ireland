@@ -50,7 +50,7 @@
 
 
 /* Reset & base */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 *,
 *::before,
 *::after {
@@ -119,7 +119,7 @@ li { margin-bottom: 0.4rem; }
 
 
 /* Utilities */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 .container {
     max-width: var(--max-width);
     margin: 0 auto;
@@ -170,7 +170,7 @@ li { margin-bottom: 0.4rem; }
 
 
 /* Nav bar */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 .site-header {
     position: sticky;
     top: 0;
@@ -257,7 +257,7 @@ li { margin-bottom: 0.4rem; }
 
 
 /* Hero */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 .hero {
     position: relative;
     min-height: 520px;
@@ -346,7 +346,7 @@ li { margin-bottom: 0.4rem; }
 
 
 /* Page banner */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin*/
 .page-banner {
     background: linear-gradient(135deg, var(--green-900), var(--green-500));
     color: var(--white);
@@ -369,7 +369,7 @@ li { margin-bottom: 0.4rem; }
 
 
 /* Cards (CSS Grid) */
-/* Written by: Jamie Stackpoole */
+/* Jamie */
 .card-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -408,7 +408,7 @@ li { margin-bottom: 0.4rem; }
 
 
 /* Two-column */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin*/
 .two-col {
     display: flex;
     gap: 3rem;
@@ -426,7 +426,7 @@ li { margin-bottom: 0.4rem; }
 
 
 /* Data tables */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 .table-wrapper {
     overflow-x: auto;
 }
@@ -488,7 +488,7 @@ tfoot td {
 
 
 /* Calculator */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 .calculator-box {
     background: var(--white);
     border-radius: var(--radius-lg);
@@ -586,7 +586,6 @@ tfoot td {
 
 
 /* Benefits list - Jamie */
-/* Written by: Jamie Stackpoole */
 .benefit-item {
     display: flex;
     align-items: flex-start;
@@ -611,7 +610,6 @@ tfoot td {
 
 
 /* Green spaces grid - Jamie */
-/* Written by: Jamie Stackpoole */
 .spotlight {
     background: var(--white);
     border-radius: var(--radius-md);
@@ -650,7 +648,7 @@ tfoot td {
 
 
 /* Stats bar */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 .stats-bar {
     display: flex;
     flex-wrap: wrap;
@@ -685,7 +683,6 @@ tfoot td {
 
 
 /* Embeds - Jamie */
-/* Written by: Jamie Stackpoole */
 .embed-wrapper {
     position: relative;
     width: 100%;
@@ -723,7 +720,7 @@ tfoot td {
 
 
 /* CTA banner */
-/* Written by: Jamie Stackpoole */
+/* Jamie */
 .cta-banner {
     background: linear-gradient(135deg, var(--green-700), var(--green-500));
     color: var(--white);
@@ -746,7 +743,7 @@ tfoot td {
 
 
 /* Footer */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 .site-footer {
     margin-top: auto;
     background: var(--dark);
@@ -797,7 +794,7 @@ tfoot td {
 
 
 /* Callout / Quote Box */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 .callout {
     background: var(--green-100);
     border-left: 5px solid var(--green-500);
@@ -931,7 +928,7 @@ blockquote cite {
 
 
 /* Scroll to Top Button */
-/* Written by: Valentin Gabriel Luchian */
+/* Valentin */
 .scroll-top {
     position: fixed;
     bottom: 2rem;
